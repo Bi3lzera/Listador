@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<positions>
+	<Num>
+		<start>100</start>
+		<lenght>8</lenght>
+	</Num>
+	<Ligacao_Cod_Barras>
+		<start>61</start>
+		<lenght>6</lenght>
+	</Ligacao_Cod_Barras>
+	<Ligacao_Pix>
+		<start>49</start>
+		<lenght>6</lenght>
+	</Ligacao_Pix>
+	<CodFormaPagamento>
+		<start>140</start>
+		<lenght>1</lenght>
+	</CodFormaPagamento>
+	<CodFormaArrecadacao>
+		<start>116</start>
+		<lenght>1</lenght>
+	</CodFormaArrecadacao>
+	<Valor>
+		<start>81</start>
+		<lenght>12</lenght>
+	</Valor>
+	<DtRecebimento>
+		<start>21</start>
+		<lenght>8</lenght>
+	</DtRecebimento>
+	<DtRepasse>
+		<start>29</start>
+		<lenght>8</lenght>
+	</DtRepasse>
+	<DtRefFat>
+		<start>69</start>
+		<lenght>6</lenght>
+	</DtRefFat>
+	<Tarifa>
+		<start>93</start>
+		<lenght>8</lenght>
+	</Tarifa>
+	<Agencia>
+		<start>108</start>
+		<lenght>4</lenght>
+	</Agencia>
+</positions>
